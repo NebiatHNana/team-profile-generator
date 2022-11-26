@@ -1,5 +1,6 @@
 
   # team-profile-generator
+<img width="1100" alt="Screen Shot 2022-11-26 at 11 47 42 AM" src="https://user-images.githubusercontent.com/104470467/204100060-b8e17735-19cd-4b02-9983-b6c6859d8eb3.png">
 
   ## Video 
   

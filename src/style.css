@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-size: medium;
+}
+
+header {
+    background-color: red;
+    color: white;
+    padding: 30px;
+    font-size: 28px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px;
+}
+
+.employee-heading {
+    background-color: blue;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    color: white;
+    padding: 1px 15px;
+}
+
+.card {
+    margin: 20px;
+    border-radius: 2px;
+    width: 3500px;
+    background-color: whitesmoke;
+}
+
+.name {
+    margin: 15px auto auto auto;
+    font-size: 24px;
+}
+
+.role {
+    margin: 15px auto 15px auto;
+    font-size: 22px;
+}
+
+.employee-content-container {
+    margin: 30px;
+}
+
+.employee-content {
+    padding: 15px;
+    background-color: white;
+    border: solid 1px whitesmoke;
+    border-radius: 10px;
+    font-size: 18px;
+    color: grey
+}

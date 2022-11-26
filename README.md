@@ -14,16 +14,15 @@ npm instal
   ## Usage
   get started by running the following command in your terminal:
 
-node index
+node index.js
 
 follow the prompts to input the team information correctly
 
 once you have answered all of the relevant questions, see the "dist" folder for you generated html file.
   ## Test
-  MIT
- run the following command in your terminal to test the functionality of this app:
+  npm run test following command in your terminal to test:
 
-npm run test
+
   ## Contributing
   Nebiat Hailemichael
   ## Questions

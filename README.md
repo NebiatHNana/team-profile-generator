@@ -1,10 +1,10 @@
 
   # team-profile-generator
-<img width="1100" alt="Screen Shot 2022-11-26 at 11 47 42 AM" src="https://user-images.githubusercontent.com/104470467/204100060-b8e17735-19cd-4b02-9983-b6c6859d8eb3.png">
+<<img width="1089" alt="Screen Shot 2022-11-26 at 12 39 34 PM" src="https://user-images.githubusercontent.com/104470467/204102042-87576571-5a98-428f-963d-f3bda82a41f1.png">>
 
   ## Video 
   
-[https://www.youtube.com/watch?v=THAjoWeo5Q0]
+[https://www.youtube.com/watch?v=n2Qc_LT4EBs]
  ## Description
   an app that allows team leaders or managers to easily build a webpage of their team. just input your teams information when prompted and its done
   ## Installation
